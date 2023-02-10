@@ -1,0 +1,246 @@
+.p-Home.Div1 {
+;
+}
+.p-Home.Flex11 {
+display: flex;
+padding-top: 25px;
+padding-left: 50px;
+padding-bottom: 25px;
+position: relative;
+}
+.p-Home.Flex12 {
+display: flex;
+}
+.p-Home.Div3 {
+margin-left: 24px;
+}
+.p-Home.Flex13 {
+display: flex;
+margin-top: 8px;
+margin-bottom: ;
+column-gap: 10px;
+margin-left: 20px;
+align-items: center;
+justify-content: center;
+align-content: center;
+align-self: center;
+}
+.p-Home.Div4 {
+left: 200px;
+position: relative;
+box-sizing: content-box;
+}
+.p-Home.Div8 {
+;
+}
+.p-Home.Flex14 {
+display: flex;
+}
+.p-Home.Flex15 {
+display: flex;
+width: 600px;
+}
+.p-Home.Flex19 {
+display: flex;
+position: relative;
+top: 370px;
+height: 40px;
+left: 140px;
+column-gap: 30px;
+width: ;
+}
+.p-Home.Div10 {
+;
+}
+.p-Home.Flex24 {
+display: flex;
+}
+.p-Home.Flex25 {
+display: flex;
+}
+.p-Home.Div11 {
+;
+}
+.p-Home.Image2 {
+padding-left: ;
+padding-top: ;
+padding-bottom: ;
+margin-left: ;
+margin-top: ;
+margin-bottom: ;
+}
+.p-Home.TextBox1 {
+align-self: center;
+margin-left: ;
+font-family: DM Sans;
+color: #696969ff;
+font-weight: 700;
+}
+.p-Home.TextBox2 {
+font-family: DM Sans;
+font-weight: 700;
+color: #696969ff;
+}
+.p-Home.TextBox3 {
+align-self: center;
+font-family: DM Sans;
+font-weight: 700;
+color: #696969ff;
+}
+.p-Home.TextBox4 {
+font-family: DM Sans;
+font-weight: 700;
+color: #696969ff;
+}
+.p-Home.TextBox5 {
+font-family: DM Sans;
+font-weight: 700;
+color: #696969ff;
+}
+.p-Home.Button3 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: ;
+outline: none;
+font-weight: 700;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #00000080;
+cursor: pointer;
+user-select: none;
+border-left-width: ;
+border-left-style: none;
+border-top-left-radius: 20px;
+border-bottom-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+outline-width: 1px;
+outline-color: ;
+box-shadow: ;
+font-family: DM Sans;
+}
+.p-Home.Button4 {
+color: #fff;
+background-color: #FF7629ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 700;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #FF7629ff;
+cursor: pointer;
+user-select: none;
+position: relative;
+left: 25px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+font-family: DM Sans;
+}
+.p-Home.Flex18 {
+display: flex;
+height: 475px;
+width: 500px;
+background-color: #FF7629ff;
+}
+.p-Home.TextBox9 {
+position: absolute;
+left: 140px;
+top: 200px;
+font-family: DM Sans;
+font-weight: 700;
+width: ;
+font-size: 50px;
+}
+.p-Home.TextBox10 {
+position: absolute;
+top: 270px;
+left: 140px;
+font-family: DM Sans;
+font-weight: 700;
+font-size: 50px;
+color: #FF7629ff;
+}
+.p-Home.TextBox11 {
+position: absolute;
+left: 140px;
+top: 350px;
+font-family: DM Sans;
+color: #696969ff;
+font-weight: 700;
+font-size: 17px;
+line-height: 25px;
+text-align: left;
+width: 500px;
+}
+.p-Home.Button6 {
+color: #060606;
+background-color: #ffffffff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 700;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #69696980;
+cursor: pointer;
+user-select: none;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-right-radius: 20px;
+border-bottom-left-radius: 20px;
+font-family: DM Sans;
+}
+.p-Home.Button7 {
+color: #fff;
+background-color: #FF7629ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 700;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #FF7629ff;
+cursor: pointer;
+user-select: none;
+position: static;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+font-family: DM Sans;
+}
+.p-Home.Image11 {
+width: 400px;
+height: 400px;
+position: absolute;
+top: 125px;
+left: 450px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 1px;
+}
